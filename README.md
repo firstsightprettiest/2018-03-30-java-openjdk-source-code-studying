@@ -1,5 +1,1 @@
-# JAVA
-# OpenJDK
-# Code
-# Studying
-# 2018-03-30
+# JAVA OpenJDK Source Code Studying 2018-03-30
