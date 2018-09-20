@@ -11,11 +11,6 @@ https://docs.oracle.com/javase/10/
 ### All jdk downloads
 ```
 http://www.oracle.com/technetwork/java/javase/archive-139210.html
-
-https://ts-open-data.oss-cn-hongkong.aliyuncs.com/it/developer/java/jdk/jdk-6u45-linux-x64.bin
-https://ts-open-data.oss-cn-hongkong.aliyuncs.com/it/developer/java/jdk/jdk-7u80-linux-x64.tar.gz
-https://ts-open-data.oss-cn-hongkong.aliyuncs.com/it/developer/java/jdk/jdk-8u121-linux-x64.tar.gz
-
 ```
 ### All openjdk source codes
 ```
